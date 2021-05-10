@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhaskar Kashyap
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Solidity, Smart Contracts and related things
+- 🌱 I’m currently learning Solidity, EOS, Smart Contracts and related things
 
 
 <!---
