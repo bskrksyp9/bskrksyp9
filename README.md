@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm Bhaskar Kashyap
-- 🔭 I’m interested in Blockchain related applications
-- 🌱 I’m currently learning more about Smart Contracts, DApps
+- 🔭 I had worked as Software Engineer for almost 6 years., been served with multiple technical roles.
+- Currently into Project Management.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bskrksyp9&theme=onedark)
 
